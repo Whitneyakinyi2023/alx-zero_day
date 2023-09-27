@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  "ALX School"
+=======
+i#!/bin/bash\echo "ALX School"
+>>>>>>> origin/update_script
